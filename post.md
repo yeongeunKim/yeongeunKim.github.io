@@ -1,1 +1,2 @@
-21800123 김영은의 oss수업 실습 페이지 입니다.
+21800123 Kim YeongEun.
+This page is for 'OSS' course.
